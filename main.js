@@ -1,4 +1,4 @@
-console.log("--------Script Started----------");
+xconsole.log("--------Script Started----------");
 // global variables
 var result;  // this is a string
 var inputValues = [ ]; //this is an array with a string
